@@ -1,0 +1,17 @@
+[
+    {
+        "url": "http://webcode.me",
+        "title": "My html page",
+        "status": 200
+    },
+    {
+        "url": "http://google.com",
+        "title": "Google",
+        "status": 200
+    },
+    {
+        "url": "http://amazon.com",
+        "title": "Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more",
+        "status": 200
+    }
+]
